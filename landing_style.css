@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(183, 211, 214);
+    background-color: rgb(190, 213, 235);
 }
 
 body p {
@@ -42,7 +42,7 @@ a:active {
 .navbar {
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #689b7d;
+    background-color: #aed7df;
     width: 100%;
     border-radius: 10px;
 }
