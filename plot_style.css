@@ -1,0 +1,33 @@
+/* not in use currently */
+
+/*--------------------------------------*/
+/* Navigation Bar*/
+
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #67508b;
+    width: 100%;
+}
+
+.nav {
+    float: right;
+}
+
+
+.navbar li {
+    padding-left: 10px;
+}
+
+.navbar li a {
+    color: #fff;
+}
+
+.dropdown-menu {
+    background-color: #67508b;
+}
+/*------------------------------*/
+
+.plot img {
+    float: left;
+}

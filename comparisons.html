@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang='en-us'>
+    <head>
+        <meta charset='UTF-8'>
+        <title>Comparisons</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="landing_style.css">
+    </head>
+
+    <body>
+
+        <div class='container'>
+
+            <div class="navbar">
+              <div class="navbar-inner">
+                <a class="brand" href="index.html">Latitude</a>
+                <ul class="nav">
+                  <ul class="nav">
+
+                      <li id='menu-1'><a href="index.html">Home</a></li>
+                      <li id='menu-2' class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                          Plots
+                          <b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                          <li><a href="temperature.html">VS Temperature</a></li>
+                          <li><a href="humidity.html">VS Humidity</a></li>
+                          <li><a href="cloudiness.html">VS Cloudiness</a></li>
+                          <li><a href="wind_speed.html">VS Wind Speed</a></li>
+                        </ul>
+                      </li>
+                  </ul>
+                  
+                  <li id='menu-3' class="active"><a href="comparisons.html">Comparison</a></li>
+                  <li id='menu-4'><a href="data.html">Data</a></li>
+                </ul>
+              </div>
+            </div>
+
+            <div class='comp-bucket'>
+              <div class='row'>
+                <div class='col-md-12'>
+                  <h1>Comparisons</h1>
+                </div>
+              </div>
+              <div class='row'>
+                  <div class='col-sm-12 col-md-6'>
+                    <h4>Max Temperature</h4>
+                    <img class='com-img' src='Resources/visualizations/Fig1.png' alt='Latitude VS Temperature'>
+                    <h4>Humidity</h4>
+                    <img class='com-img' src='Resources/visualizations/Fig2.png' alt='Latitude VS Humidity'>
+                  </div>
+                  <div class='col-sm-12 col-md-6'>
+                    <h4>Cloudiness</h4>
+                    <img class='com-img' src='Resources/visualizations/Fig3.png' alt='Latitude VS Cloudiness'>
+                    <h4>Wind Speed</h4>
+                    <img class='com-img' src='Resources/visualizations/Fig4.png' alt='Latitude VS Wind Speed'>
+                  </div>
+              </div>
+            </div>
+
+        </div>
+        
+        <!--makes those buttons work-->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+   
+    </body>
+
+</html>
