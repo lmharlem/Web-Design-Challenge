@@ -7,7 +7,7 @@ body p {
 }
 
 h1, h2 {
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Impact, Haettenschweiler, 'Times New Roman', sans-serif;
 }
 /*--------------------------------------*/
 /* Navigation Bar*/
@@ -17,7 +17,7 @@ h1, h2 {
     padding-bottom: 22px;
     padding-left: 5px;
     padding-right: 5px;
-    background-color: rgb(88, 41, 102);
+    background-color: rgb(189, 156, 199);
     color: #fff;
 }
 
@@ -42,7 +42,7 @@ a:active {
 .navbar {
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #5a5656;
+    background-color: #806363;
     width: 100%;
     border-radius: 10px;
 }
