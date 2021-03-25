@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(184, 213, 240);
+    background-color: rgb(195, 213, 230);
 }
 
 body p {
@@ -7,7 +7,7 @@ body p {
 }
 
 h1, h2 {
-    font-family:Impact, Haettenschweiler, Times New Roman, sans-serif;
+    font-family:Impact, Geneva, Times New Roman, sans-serif;
 }
 /*--------------------------------------*/
 /* Navigation Bar*/
