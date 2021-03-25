@@ -1,6 +1,6 @@
 # Latitude Analysis Dashboard with Attitude
 
-## Creating a visualization dashboard website using visualizations from weather data.
+### Creating a visualization dashboard website using visualizations from weather data.
 
 ![](/images/landingResize.png)
 
