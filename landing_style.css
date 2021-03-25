@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(107, 161, 168);
+    background-color: rgb(26, 98, 107);
 }
 
 body p {
@@ -17,7 +17,7 @@ h1, h2 {
     padding-bottom: 22px;
     padding-left: 5px;
     padding-right: 5px;
-    background-color: rgb(189, 156, 199);
+    background-color: rgb(198, 152, 212);
     color: #fff;
 }
 
@@ -42,7 +42,7 @@ a:active {
 .navbar {
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #806363;
+    background-color: #689b7d;
     width: 100%;
     border-radius: 10px;
 }
@@ -61,7 +61,7 @@ a:active {
 }
 
 .dropdown-menu {
-    background-color: #5a5656;
+    background-color: #f0db97;
 }
 /*------------------------------*/
 
@@ -76,7 +76,6 @@ a:active {
 .img-set {
     position: relative;
     width: 100%;
-    /* TA Chris helped me get this 1:1 ratio part down */
     padding-top: 100%;
 }
 
